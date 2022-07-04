@@ -1,4 +1,5 @@
-# Stiller on Python
+# Stiller on Python :point_down:
+# ❗❗❗ Use at own risk ❗❗❗
 
 ## Manual:
 
@@ -21,4 +22,6 @@ Then we enter into the console:
 ```
 pip uninstall typing
 ```
-And then enter y
+And then enter "y"
+
+
