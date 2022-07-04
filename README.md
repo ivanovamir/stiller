@@ -19,5 +19,6 @@ Press any key to continue. . .
 
 Then we enter into the console: 
 ```
-pip uninstall typing and then enter y
+pip uninstall typing
 ```
+And then enter y
