@@ -17,4 +17,7 @@ The specified file cannot be found.
 The specified file cannot be found.
 Press any key to continue. . .
 
-Then we enter into the console: pip uninstall typing and then enter y
+Then we enter into the console: 
+```
+pip uninstall typing and then enter y
+```
