@@ -1,6 +1,6 @@
 # Stiller on Python
 
-##Manual:
+## Manual:
 
 - Create a telegram bot and run it, send it any message (https://t.me/BotFather)
 - Copy the bot token (After creating the bot, the botfaser will issue a token)
